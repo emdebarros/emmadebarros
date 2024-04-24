@@ -1,6 +1,6 @@
-# About Me - Em
+## About Me
 
-Hello 👋🏻, I'm **Em**, software engineer and co-founder of **Avivo**.
+Hello 👋🏻, I'm Em, software engineer and co-founder of **Avivo**.
 
  - [Blog]([url](https://edebarros.ca/))
  - [LinkedIn](https://www.linkedin.com/in/emma-de-barros/)
